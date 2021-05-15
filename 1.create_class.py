@@ -17,6 +17,7 @@ class human():
         pass
 
     def speaking():
+        pass
 
 hasanShamaeizade = human()
 print(type(hasanShamaeizade))
